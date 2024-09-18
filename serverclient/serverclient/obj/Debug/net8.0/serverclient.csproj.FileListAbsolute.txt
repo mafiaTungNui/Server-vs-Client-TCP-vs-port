@@ -1,0 +1,14 @@
+C:\Users\TungNuis\source\repos\serverclient\serverclient\bin\Debug\net8.0\serverclient.exe
+C:\Users\TungNuis\source\repos\serverclient\serverclient\bin\Debug\net8.0\serverclient.deps.json
+C:\Users\TungNuis\source\repos\serverclient\serverclient\bin\Debug\net8.0\serverclient.runtimeconfig.json
+C:\Users\TungNuis\source\repos\serverclient\serverclient\bin\Debug\net8.0\serverclient.dll
+C:\Users\TungNuis\source\repos\serverclient\serverclient\bin\Debug\net8.0\serverclient.pdb
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.AssemblyInfoInputs.cache
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.AssemblyInfo.cs
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.csproj.CoreCompileInputs.cache
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.dll
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\refint\serverclient.dll
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.pdb
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\serverclient.genruntimeconfig.cache
+C:\Users\TungNuis\source\repos\serverclient\serverclient\obj\Debug\net8.0\ref\serverclient.dll
